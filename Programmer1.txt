@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Programmer1 Merges Develop and Stating Branch
+=======
+Programmer1 Merges Develop and Stating Branch.
+>>>>>>> develop
